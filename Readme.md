@@ -1,4 +1,4 @@
-###DevOps:
+### DevOps:
 	CI/CD:
 		-Jenkins server
 		-GitHub Actions
@@ -54,7 +54,7 @@
 		-New Relic
 		-Datadog
 
-Web Dev with Python:
+### Web Dev with Python:
 	-Basics with Python
 	-Standard Library
 	-Frameworks:
